@@ -33,7 +33,7 @@
 ## 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,gamemakerstudio,gradle,nodejs,react,nextjs,vue,nuxtjs,angular,laravel,flutter,wordpress,php,js,ts,html,css,tailwind,bootstrap,git,docker,aws,mysql,postgres,linux,vscode,cloudflare,rust,golang,c++,devops,acfgutenberg&perline=10" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,gamemakerstudio,gradle,opencv,qt,rails,redis,redux,ruby,sass,unity,unreal,workers,zig,scala,spring,matlab,materialui,lua,linux,kotlin,java,dotnet,django,docker,coffeescript,crystal,autocad,solidity,solidjs,nodejs,react,nextjs,vue,nuxtjs,angular,laravel,flutter,wordpress,php,js,ts,html,css,tailwind,bootstrap,git,docker,aws,mysql,postgres,linux,vscode,cloudflare,rust,golang,c++,devops,acfgutenberg&perline=10" />
 </p>
 
 ## 📊 GitHub Stats
