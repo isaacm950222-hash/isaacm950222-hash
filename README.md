@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+%2F+Blockchain+%2F+Gambling;10%2B+Years+Experience;SEO+%26+Performance+Optimizer;" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<p align="left">
   🔭 Innovative mobile developer with a proven track record of designing and developing user-friendly applications for iOS and Android platforms. Expert in implementing responsive interfaces using Swift and Kotlin, optimizing performance to reduce load times by 30%. Strong background in unit testing and maintaining comprehensive documentation to enhance application reliability. Committed to delivering exceptional user experiences through effective collaboration and technical expertise.
 
   🌱 Detail-oriented mobile developer with a strong emphasis on documentation and user experience. Proven capability in designing applications that streamline user engagement, backed by solid programming skills in Swift and Kotlin. Demonstrated success in enhancing application performance and reliability through comprehensive testing methodologies. Committed to driving innovation and delivering high-quality mobile solutions.
